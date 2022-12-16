@@ -8,6 +8,8 @@ Grupo:
 Nome: Hebert Garcia da Silva
 Nome: Ana Carolina Aquino
 
+link do site: https://projeto-react-two-psi.vercel.app/
+
 ------------------------------------------------------------------------------------------------------------------
 
 Algumas tecnologias e recursos utilizados:
